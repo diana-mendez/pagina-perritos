@@ -1,0 +1,38 @@
+/*Comentario*/
+
+body{
+    background-color: #e9d5f3;
+    color:#1d202f;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3{
+    color: #79787e;
+}
+
+h1, p{
+    color: blueviolet;
+}
+
+.img1{
+    width: 280px;
+    height: 200px;
+    border-style: dashed;
+    border-color:#7c3d65;
+    border-width: thick;
+    padding: 10px;
+    margin-right: 25px;
+}
+
+.img2{
+    width: 280px;
+    height: 200px;
+    border-style: dashed;
+    border-color:#7c3d65;
+    border-width: thick;
+    padding: 10px;
+}
+
+small{
+    color:black;
+}
